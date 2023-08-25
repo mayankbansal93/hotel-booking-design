@@ -19,3 +19,6 @@ System Design for hotel booking app - Airbnb, Agoda, Booking.com
 * [PricingService](src/main/java/com/mayank/hotelbooking/services/PricingService.java)
 * [RateService](src/main/java/com/mayank/hotelbooking/services/RateeService.java)
 * [PaymentService](src/main/java/com/mayank/hotelbooking/services/PaymentService.java)
+
+# Explanation
+* [Medium Story](https://medium.com/@mayankbansal933/hotel-booking-app-design-82e3b0273fe2)
